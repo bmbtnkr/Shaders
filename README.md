@@ -1,4 +1,4 @@
-Repository of Maya HLSL shaders
+Repository of Maya 2014 HLSL shaders
 =======================
 
 basic.fx
